@@ -13,14 +13,10 @@ This project aims to predict the success of SpaceX's Falcon 9 first stage landin
 ## Folder Structure
 - **Data/**: Contains datasets used in this project.
 - **Dashboard.py**: Python file for the Dash dashboard.
-- **Notebooks/**: Jupyter notebooks for data collection, wrangling, and model development.
-- **README.md**: Project documentation.
+- **Notebooks**: Jupyter notebooks for data collection, wrangling, and model development.
 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
    git clone https://github.com/ssp964/rocket-landing-prediction.git
-
-
-
 
